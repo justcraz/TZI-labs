@@ -9,7 +9,7 @@ import javafx.stage.FileChooser;
 import java.io.*;
 
 public class HelloController {
-    private final String alphabet = "абвгґдеєжзиіїйклмнопрстуфхцчшщьюя";
+    private final String alphabet = "Абвгґдеєжзиіїйклмнопрстуфхцчшщьюя";
     @FXML
     private TextField keyField;
 
